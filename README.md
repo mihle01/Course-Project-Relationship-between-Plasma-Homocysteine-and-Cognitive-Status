@@ -9,8 +9,8 @@ Data preparation:
 - Subsetted data to exclude observations with missing Alzheimer's data
 
 Statistical Analyses:
-- Developed descriptive statistics 
-- Preliminary 2-sample t-tests and Chi-square tests of independence for variables of interest
+- Developed descriptive statistics using SAS Macro
+- Preliminary 2-sample t-tests and Chi-square tests of independence for variables of interest using SAS Macro
 - One-factor ANOVA assessing plasma homocystesine levels among 4 age groups
 - Piecewise linear regression model assessing plasma homocystesine levels among 4 age groups
 - Multiple linear regression predicting cognitive status with plasma homocystesine and sex (dummy variable). Additinoally assessed interaction between plasma homocystesine and sex
