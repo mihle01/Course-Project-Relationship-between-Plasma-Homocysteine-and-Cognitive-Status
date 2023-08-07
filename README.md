@@ -11,12 +11,12 @@ Data preparation:
 Statistical Analyses:
 - Developed descriptive statistics using SAS Macro
 - Preliminary 2-sample t-tests and Chi-square tests of independence for variables of interest using SAS Macro
-- One-factor ANOVA assessing plasma homocystesine levels among 4 age groups
-- Piecewise linear regression model assessing plasma homocystesine levels among 4 age groups
-- Multiple linear regression predicting cognitive status with plasma homocystesine and sex (dummy variable). Additinoally assessed interaction between plasma homocystesine and sex
-- Simple linear reression predicting cognitive status with plasma homocystesine
-- Multiple linear regression model predicting cognitive status using plasma homocystesine, sex, education, age, and pack years of cigarette smoking
-- Final multiple linear regressino model predicting cognitive status using education and age only.
+- One-factor ANOVA assessing plasma homocysteine levels among 4 age groups
+- Piecewise linear regression model assessing plasma homocysteine levels among 4 age groups
+- Multiple linear regression predicting cognitive status with plasma homocysteine and sex (dummy variable). Additionally assessed interaction between plasma homocysteine and sex
+- Simple linear regression predicting cognitive status with plasma homocysteine
+- Multiple linear regression model predicting cognitive status using plasma homocysteine, sex, education, age, and pack years of cigarette smoking
+- Final multiple linear regression model predicting cognitive status using education and age only.
 
 Conclusions:
 While in a simple linear regression model, plasma homocysteine was a significant predictor of cognitive status, we did not find plasma homocysteine levels to be a significant predictor of cognitive status once we adjusted for other variables. Our final multiple linear regression model predicting cognitive status included only age and education as significant predictors. You can read the full report above titled "BS805 Project Report_final".
